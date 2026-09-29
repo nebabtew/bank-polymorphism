@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Problem1_Payroll/Problem1_Payroll.csproj" />
+  <Project Path="Problem2_Shapes/Problem2_Shapes.csproj" />
+  <Project Path="Problem3_Bank/Problem3_Bank.csproj" />
+</Solution>

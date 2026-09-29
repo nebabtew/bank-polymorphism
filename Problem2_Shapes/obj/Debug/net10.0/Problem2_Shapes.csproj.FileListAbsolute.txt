@@ -1,0 +1,14 @@
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/bin/Debug/net10.0/Problem2_Shapes
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/bin/Debug/net10.0/Problem2_Shapes.deps.json
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/bin/Debug/net10.0/Problem2_Shapes.runtimeconfig.json
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/bin/Debug/net10.0/Problem2_Shapes.dll
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/bin/Debug/net10.0/Problem2_Shapes.pdb
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/Problem2_Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/Problem2_Shapes.AssemblyInfoInputs.cache
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/Problem2_Shapes.AssemblyInfo.cs
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/Problem2_Shapes.csproj.CoreCompileInputs.cache
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/Problem2_Shapes.dll
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/refint/Problem2_Shapes.dll
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/Problem2_Shapes.pdb
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/Problem2_Shapes.genruntimeconfig.cache
+/Users/nebabtew/Bank Polymorphism/Problem2_Shapes/obj/Debug/net10.0/ref/Problem2_Shapes.dll

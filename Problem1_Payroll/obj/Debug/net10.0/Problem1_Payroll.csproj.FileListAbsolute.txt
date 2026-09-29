@@ -1,0 +1,15 @@
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/bin/Debug/net10.0/employees.txt
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/bin/Debug/net10.0/Problem1_Payroll
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/bin/Debug/net10.0/Problem1_Payroll.deps.json
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/bin/Debug/net10.0/Problem1_Payroll.runtimeconfig.json
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/bin/Debug/net10.0/Problem1_Payroll.dll
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/bin/Debug/net10.0/Problem1_Payroll.pdb
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/Problem1_Payroll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/Problem1_Payroll.AssemblyInfoInputs.cache
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/Problem1_Payroll.AssemblyInfo.cs
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/Problem1_Payroll.csproj.CoreCompileInputs.cache
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/Problem1_Payroll.dll
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/refint/Problem1_Payroll.dll
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/Problem1_Payroll.pdb
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/Problem1_Payroll.genruntimeconfig.cache
+/Users/nebabtew/Bank Polymorphism/Problem1_Payroll/obj/Debug/net10.0/ref/Problem1_Payroll.dll

@@ -1,0 +1,4 @@
+Alice,25.50,40
+Bob,30.00,35.5
+Charlie,abc,20
+Diana,15.75,45

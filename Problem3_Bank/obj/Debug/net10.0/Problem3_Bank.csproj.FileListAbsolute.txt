@@ -1,0 +1,15 @@
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/bin/Debug/net10.0/transactions.txt
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/bin/Debug/net10.0/Problem3_Bank
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/bin/Debug/net10.0/Problem3_Bank.deps.json
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/bin/Debug/net10.0/Problem3_Bank.runtimeconfig.json
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/bin/Debug/net10.0/Problem3_Bank.dll
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/bin/Debug/net10.0/Problem3_Bank.pdb
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/Problem3_Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/Problem3_Bank.AssemblyInfoInputs.cache
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/Problem3_Bank.AssemblyInfo.cs
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/Problem3_Bank.csproj.CoreCompileInputs.cache
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/Problem3_Bank.dll
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/refint/Problem3_Bank.dll
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/Problem3_Bank.pdb
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/Problem3_Bank.genruntimeconfig.cache
+/Users/nebabtew/Bank Polymorphism/Problem3_Bank/obj/Debug/net10.0/ref/Problem3_Bank.dll
